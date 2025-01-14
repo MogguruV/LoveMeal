@@ -1,0 +1,5 @@
+Ahmad,32,Terdampak peperangan di Palestina
+Fatima,27,Terdampak peperangan di Palestina
+Yusuf,40,Terdampak peperangan di Palestina
+Aisha,22,Terdampak peperangan di Palestina
+Mahmoud,35,Terdampak peperangan di Palestina
